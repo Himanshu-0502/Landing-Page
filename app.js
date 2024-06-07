@@ -21,13 +21,13 @@ function setBackground() {
     let hour = today.getHours();
 
     if (hour < 10) {
-        document.body.style.backgroundImage = "url('Images/MorningImage.jpg')";
+        document.body.style.backgroundImage = "url('Landing-Page/Images/MorningImage.jpg')";
         Greeting.textContent = 'Good Morning,';
     } else if (hour < 18) {
-        document.body.style.backgroundImage = "url('Images/AfternoonImage.jpg')";
+        document.body.style.backgroundImage = "url('Landing-Page/Images/AfternoonImage.jpg')";
         Greeting.textContent = 'Good Afternoon,';
     } else {
-        document.body.style.backgroundImage = "url('Images/NightImage.jpg')";
+        document.body.style.backgroundImage = "url('Landing-Page/Images/NightImage.jpg')";
         Greeting.textContent = 'Good Evening,';
     }
 }
