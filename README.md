@@ -11,7 +11,7 @@ This project is an interactive landing page that dynamically updates the time, g
 
 ## Live Demo
 
-You can view a live demo of the project [here](https://your-username.github.io/your-repository).
+You can view a live demo of the project [here](https://himanshu-0502.github.io/Landing-Page/).
 
 ## Screenshots
 
@@ -27,12 +27,12 @@ These instructions will help you set up the project on your local machine for de
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Himanshu-0502/Landing-Page.git
     ```
 
 2. **Navigate to the project directory:**
     ```sh
-    cd your-repository
+    cd Landing-Page
     ```
 
 3. **Open `index.html` in your web browser:**
