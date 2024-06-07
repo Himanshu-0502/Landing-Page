@@ -15,9 +15,9 @@ You can view a live demo of the project [here](https://your-username.github.io/y
 
 ## Screenshots
 
-![Morning](Images/Morning%20Image.jpg)
-![Afternoon](Images/Afternoon%20Image.jpg)
-![Night](Images/Night%20Image.jpg)
+![Morning](Images/MorningImage.jpg)
+![Afternoon](Images/AfternoonImage.jpg)
+![Night](Images/NightImage.jpg)
 
 ## Getting Started
 
